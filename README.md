@@ -15,4 +15,9 @@ Heikin Ashi candlesticks are a way to reproducing financial data series that ori
 -----------------------------------------------------------------------------------------------------------------------------
 4) Then install the necessary libraries: `pip install -r requirements.txt` or `pip3 install -r requirements.txt`
 -----------------------------------------------------------------------------------------------------------------------------
+5) Finally, run your script: `python ./main.py`
+-----------------------------------------------------------------------------------------------------------------------------
+
+# Output 
+![Schermata 2022-12-06 alle 17 11 43](https://user-images.githubusercontent.com/100917872/205966416-8f937ddd-ab83-4fb6-9d6f-dd7571b70934.png)
 
