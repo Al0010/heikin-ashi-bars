@@ -10,9 +10,8 @@ Heikin Ashi candlesticks are a way to reproducing financial data series that ori
 2) From terminal moved inside (from the terminal on both windows and mac the command is: cd<PATH_CARTELLA>) 
    and launches the following commands: `virtualenv .`
 -----------------------------------------------------------------------------------------------------------------------------
-3) Then again from the terminal, activate it (and within the folder run the following commands):
-   Mac: `source bin/activate`
-   Window: `Script\activate`
+3) Then again from the terminal, activate it (and within the folder run the following commands) for Mac: `source bin/activate`
+   or for Window: `Script\activate`
 -----------------------------------------------------------------------------------------------------------------------------
 4) Then install the necessary libraries: `pip install -r requirements.txt` or `pip3 install -r requirements.txt`
 -----------------------------------------------------------------------------------------------------------------------------
