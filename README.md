@@ -14,4 +14,6 @@ Heikin Ashi candlesticks are a way to reproducing financial data series that ori
    Mac: source bin/activate
    Window: Script\activate
 -----------------------------------------------------------------------------------------------------------------------------
+4) Then install the necessary libraries: pip install -r requirements.txt
+-----------------------------------------------------------------------------------------------------------------------------
 
